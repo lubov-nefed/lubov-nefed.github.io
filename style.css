@@ -1,0 +1,21 @@
+body{
+    font-family: 'Franklin Gothic Medium';
+}
+h4{
+    margin: 0 0 0 0;
+
+}
+button{
+    background-color: blueviolet;
+}
+img{
+    width: 100px;
+    height: 100px;
+    margin: 0 0 30px 0;
+}
+.checkbox{
+    margin-left: 650px;
+}
+.text{
+    text-align: center;
+}
